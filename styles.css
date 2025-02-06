@@ -1,0 +1,30 @@
+body {
+    background-color: #222831;
+}
+h1{
+    color:#EEEEEE;
+}
+h2{
+    color:#222831;
+}
+main {
+    padding-top: 80px;
+}
+.card {background-color: #76ABAE;}
+h1 i{color: #76ABAE;}
+h3 {text-align: right;
+    font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 40px;
+
+}
+
+h1,h2 {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
